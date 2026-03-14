@@ -43,9 +43,3 @@ Cloud-based AI systems
 
 ⭐ I enjoy building AI systems, automation tools, and data-driven solutions.
 
-### Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=flat&logo=python&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F61?style=flat&logo=tensorflow&logoColor=white)
