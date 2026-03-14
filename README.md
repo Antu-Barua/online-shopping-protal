@@ -39,6 +39,6 @@ Cloud-based AI systems
 
 📧 Email: antubarua431@gmail.com
 
-💻 GitHub: https://github.com/yourusername
+💻 GitHub: https://github.com/Antu-Barua
 
 ⭐ I enjoy building AI systems, automation tools, and data-driven solutions.
